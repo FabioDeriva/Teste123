@@ -4,7 +4,7 @@ Este projeto tem como objetivo testar o GitHub e explorar suas funcionalidades.
 
 # Comandos Git Essenciais
 
-![Logo Github](img\images.png)
+![Logo Github](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
 
 ## Trabalhando com arquivos
 
