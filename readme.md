@@ -1,4 +1,10 @@
+# Projeto de Teste do GitHub
+
+Este projeto tem como objetivo testar o GitHub e explorar suas funcionalidades.
+
 # Comandos Git Essenciais
+
+![Logo Github](img\images.png)
 
 ## Trabalhando com arquivos
 
