@@ -5,9 +5,7 @@ Este projeto tem como objetivo testar o GitHub e explorar suas funcionalidades.
 # Comandos Git Essenciais
 
 ![Logo Github](images.png)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt='Logo Github' widght="20"/>
-
+'
 ## Trabalhando com arquivos
 
 - `git add .`  
