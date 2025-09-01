@@ -1,10 +1,7 @@
-# piru
+# Projeto de Teste do GitHub
 
-- pelos
-- bolas
-- amor
+Este projeto tem como objetivo testar o GitHub e explorar suas funcionalidades.
 
-## Boceta
+## Notas
 
-1. Linda e loira
-2. Rosinha
+> Nota: O amor é um sentimento essencial para a vida, capaz de transformar pessoas e situações. Valorize o respeito, o carinho e a empatia nas suas relações.
